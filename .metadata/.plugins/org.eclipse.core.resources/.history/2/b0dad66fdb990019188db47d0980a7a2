@@ -1,0 +1,23 @@
+package com.br.pizzaria.models;
+
+public class PizzariaModel {
+
+	private String sabor;
+	private String massa;
+	private String tipoDaBorda;
+	private double valor;
+	
+	public PizzariaModel() {
+		
+	}
+	
+	public PizzariaModel(String sabor, String massa, String tipoDaBorda, double valor) {
+		this.sabor = sabor;
+		this.massa = massa;
+		this.tipoDaBorda = tipoDaBorda;
+		this.valor = valor;
+		
+	}
+	
+	
+}

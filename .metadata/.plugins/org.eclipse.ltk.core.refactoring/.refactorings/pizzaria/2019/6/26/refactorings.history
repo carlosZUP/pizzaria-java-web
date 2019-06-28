@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sabor&apos; in &apos;com.br.pizzaria.services.PIzzariaService.buscarPorSabor(...)&apos; to &apos;saborPedido&apos;&#x0A;- Original project: &apos;pizzaria&apos;&#x0A;- Original element: &apos;com.br.pizzaria.services.PIzzariaService.buscarPorSabor(String).sabor&apos;&#x0A;- Renamed element: &apos;sabor&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sabor&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;com.br.pizzaria.services{PIzzariaService.java[PIzzariaService~buscarPorSabor~QString;@sabor!632!643!639!643!QString;!0!true" name="saborPedido" references="true" stamp="1561756789793" version="1.0"/>
+</session>

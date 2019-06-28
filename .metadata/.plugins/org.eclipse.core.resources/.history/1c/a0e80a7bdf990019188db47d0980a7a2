@@ -1,0 +1,15 @@
+package com.br.pizzaria.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.br.pizzaria.services.PIzzariaService;
+
+@Controller
+public class PizzariaController {
+	
+	@Autowired
+	private PIzzariaService pizzariaService;
+	
+	
+}
